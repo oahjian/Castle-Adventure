@@ -1,0 +1,20 @@
+{
+	"id": "7ae10bb2-eef1-4b26-b22e-453b5578d211",
+	"rooms": [
+		"/castles/1/rooms/422327bd-4f20-4196-8bdd-16d01e04725e",
+		"/castles/1/rooms/4089046c-4d75-4e41-bf0f-4dd6dd482276",
+		"/castles/1/rooms/e4016f18-aa33-4897-b659-e982bb74f9bc",
+		"/castles/1/rooms/2a410529-9290-4f79-9db8-7c65abbda8e2",
+		"/castles/1/rooms/9c03a3af-096a-4b6e-8196-a79e07349c2f",
+		"/castles/1/rooms/c6a0313d-9ffe-4881-864a-5fd946590c8e"
+	],
+	"chests": [
+		"/castles/1/chests/5da2769c-631f-48f8-9868-b9d3d4e83dd6",
+		"/castles/1/chests/a63d1570-d8fd-4742-8182-b4df6c9b3473",
+		"/castles/1/chests/13252220-294c-476b-8b41-ccd36e066020",
+		"/castles/1/chests/7c8404ee-d699-412f-a9e6-39e8f8c258d7",
+		"/castles/1/chests/e91887fa-b6c0-44b6-9f2e-607dc834d470",
+		"/castles/1/chests/2beea132-46af-4c13-b6fc-f0848e56056b",
+		"/castles/1/chests/e671ec9d-aae0-4c92-baf3-59b7b283c6d1"
+	]
+}
